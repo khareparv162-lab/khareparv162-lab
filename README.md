@@ -93,11 +93,5 @@ A recreation of the homepage of The Odin Project, built to practice layout, styl
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** https://www.linkedin.com/in/parv-khare-63ba09373/ 
-**Email:** khareparv162@gmail.com
-
----
-
-<p align="center">
-  <i>Building, learning, and turning ideas into working products.</i>
+<p align="left"> <a href="https://www.linkedin.com/in/parv-khare-63ba09373/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:khareparv162@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://discord.gg/parvkhare_95900"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a> </p>
 </p>
