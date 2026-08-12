@@ -93,7 +93,7 @@ A recreation of the homepage of The Odin Project, built to practice layout, styl
 
 ## 🤝 Let's Connect
 
-**LinkedIn:** Parv Khare  
+**LinkedIn:** https://www.linkedin.com/in/parv-khare-63ba09373/ 
 **Email:** khareparv162@gmail.com
 
 ---
