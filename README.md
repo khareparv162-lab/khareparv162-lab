@@ -96,7 +96,7 @@ An early-stage platform concept for bringing applicant information into a struct
 - Applicant information aggregation
 - AI-assisted insights
 
-<a href="https://github.com/khareparv162-lab?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-VERIS-8C5A16?style=for-the-badge&logo=github&logoColor=white" alt="Explore Veris" /></a>
+<a href="https://github.com/khareparv162-lab/Veris"><img src="https://img.shields.io/badge/EXPLORE-VERIS-8C5A16?style=for-the-badge&logo=github&logoColor=white" alt="Explore Veris" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +112,7 @@ A project focused on converting paramedic voice input into structured patient in
 - Emergency coordination
 - AI / NLP workflows
 
-<a href="https://github.com/khareparv162-lab?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-TRIAGESYNC-386641?style=for-the-badge&logo=github&logoColor=white" alt="Explore TriageSync" /></a>
+<a href="https://github.com/khareparv162-lab/TriageSync"><img src="https://img.shields.io/badge/EXPLORE-TRIAGESYNC-386641?style=for-the-badge&logo=github&logoColor=white" alt="Explore TriageSync" /></a>
 
 </td>
 </tr>
