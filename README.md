@@ -196,10 +196,12 @@ SRM Institute of Science and Technology (SRMIST)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=khareparv162-lab&style=for-the-badge&color=8C5A16&label=VILLAGE+VISITORS" alt="Profile visitor count" />
-
-<br/><br/>
-
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=khareparv162-lab&label=VILLAGE%20VISITORS&color=8C5A16&style=for-the-badge"
+    alt="Village visitors"
+  />
+</div>
 **`THANKS FOR VISITING MY VILLAGE`**
 
 *Keep building. Keep upgrading. Never stop learning.*
